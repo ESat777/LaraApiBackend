@@ -16,7 +16,7 @@ This is backend part: API, Models, Authentication, Connection with database, Mod
 
 
 
-* Clone the repository files `git clone https://github.com/ESat777/LaraApiBackend.git > in htdocs folder`;
+* Clone the repository files git clone `https://github.com/ESat777/LaraApiBackend.git` in htdocs folder;
 * Open MySQL workbench and choose root connection;
 * Create database named `laravel`.
 * Open project and launch composer command (if globally: `php composer install`, if localy: `php <path to composer.phar> install`);
